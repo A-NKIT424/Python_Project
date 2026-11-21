@@ -1,0 +1,501 @@
+Employee_ID,Department,Role,Tenure_Years,Satisfaction_Score,Overtime,Absent_Days,Attrition
+EMP1001,Sales,Sales Lead,3,1,No,8,Yes
+EMP1002,Customer Support,Support Specialist,2,4,No,7,No
+EMP1003,Marketing,Content Specialist,4,3,No,7,No
+EMP1004,Sales,Sales Executive,8,3,Yes,4,No
+EMP1005,Engineering,Software Engineer,1,5,No,11,No
+EMP1006,Engineering,Software Engineer,1,2,No,7,Yes
+EMP1007,Engineering,Software Engineer,2,4,Yes,7,No
+EMP1008,Customer Support,Support Lead,5,4,Yes,6,Yes
+EMP1009,HR,Recruiter,4,1,No,9,No
+EMP1010,Marketing,Content Specialist,1,4,No,5,No
+EMP1011,Engineering,Software Engineer,8,5,No,6,No
+EMP1012,Customer Support,Support Lead,6,2,Yes,8,No
+EMP1013,Marketing,Content Specialist,1,5,Yes,3,Yes
+EMP1014,Engineering,Software Engineer,5,4,No,5,No
+EMP1015,Engineering,QA Tester,6,4,No,5,No
+EMP1016,Engineering,QA Tester,2,4,No,8,No
+EMP1017,Engineering,Tech Lead,1,3,No,5,Yes
+EMP1018,Sales,Sales Executive,1,5,No,4,Yes
+EMP1019,Sales,Account Manager,1,5,No,4,No
+EMP1020,Engineering,Software Engineer,7,4,No,7,No
+EMP1021,HR,Recruiter,8,4,No,4,No
+EMP1022,Engineering,QA Tester,1,4,No,8,No
+EMP1023,Engineering,QA Tester,2,3,No,6,No
+EMP1024,Sales,Sales Lead,1,4,No,8,Yes
+EMP1025,Sales,Account Manager,1,4,Yes,8,No
+EMP1026,Marketing,Content Specialist,7,4,No,5,No
+EMP1027,Engineering,Software Engineer,2,4,Yes,3,No
+EMP1028,Sales,Account Manager,2,3,No,7,No
+EMP1029,Sales,Sales Executive,2,1,No,10,Yes
+EMP1030,Engineering,QA Tester,4,2,No,5,No
+EMP1031,HR,HR Specialist,2,3,Yes,5,No
+EMP1032,Engineering,QA Tester,5,4,No,7,No
+EMP1033,Engineering,Tech Lead,2,4,No,10,No
+EMP1034,Customer Support,Support Specialist,6,4,Yes,0,Yes
+EMP1035,Customer Support,Support Specialist,4,3,Yes,3,Yes
+EMP1036,Marketing,Content Specialist,1,4,No,5,Yes
+EMP1037,Engineering,QA Tester,3,3,Yes,5,No
+EMP1038,Engineering,Tech Lead,7,3,No,5,No
+EMP1039,HR,HR Specialist,9,4,No,5,No
+EMP1040,Sales,Sales Lead,3,5,No,6,No
+EMP1041,Engineering,Tech Lead,3,3,No,3,No
+EMP1042,Sales,Account Manager,8,1,Yes,4,Yes
+EMP1043,Engineering,Software Engineer,4,2,No,8,Yes
+EMP1044,Customer Support,Support Specialist,1,1,Yes,6,Yes
+EMP1045,Engineering,Software Engineer,8,4,No,8,No
+EMP1046,HR,Recruiter,2,3,No,6,No
+EMP1047,Engineering,Software Engineer,4,3,No,7,No
+EMP1048,Sales,Account Manager,1,3,No,10,No
+EMP1049,Sales,Account Manager,1,1,Yes,7,Yes
+EMP1050,Engineering,Software Engineer,2,3,Yes,6,Yes
+EMP1051,Customer Support,Support Specialist,6,2,Yes,6,Yes
+EMP1052,Marketing,Marketing Analyst,2,3,No,2,Yes
+EMP1053,Customer Support,Support Specialist,2,2,Yes,10,Yes
+EMP1054,Customer Support,Support Lead,2,4,Yes,3,No
+EMP1055,Sales,Sales Executive,3,2,No,6,Yes
+EMP1056,Customer Support,Support Specialist,11,5,Yes,5,No
+EMP1057,Engineering,Tech Lead,3,3,Yes,7,No
+EMP1058,Engineering,Software Engineer,4,4,No,5,No
+EMP1059,Engineering,QA Tester,7,4,No,5,No
+EMP1060,Engineering,Tech Lead,4,4,No,5,No
+EMP1061,Sales,Sales Executive,1,4,No,7,Yes
+EMP1062,Engineering,Tech Lead,2,3,Yes,9,No
+EMP1063,Marketing,Content Specialist,2,3,No,9,No
+EMP1064,Sales,Sales Executive,3,3,No,10,No
+EMP1065,Engineering,Software Engineer,3,4,No,10,No
+EMP1066,Sales,Sales Lead,6,1,No,6,No
+EMP1067,Engineering,QA Tester,2,3,No,10,No
+EMP1068,Marketing,Content Specialist,3,4,No,9,No
+EMP1069,Engineering,Software Engineer,4,4,No,7,No
+EMP1070,Customer Support,Support Specialist,2,4,Yes,4,No
+EMP1071,Marketing,Marketing Analyst,7,4,No,4,No
+EMP1072,Engineering,Software Engineer,4,5,No,9,No
+EMP1073,Engineering,QA Tester,2,3,No,9,Yes
+EMP1074,Marketing,Content Specialist,5,3,Yes,6,No
+EMP1075,Marketing,Content Specialist,3,3,Yes,1,No
+EMP1076,Marketing,Content Specialist,4,3,No,8,No
+EMP1077,Marketing,Content Specialist,3,4,No,1,No
+EMP1078,Engineering,QA Tester,3,2,No,11,Yes
+EMP1079,Sales,Sales Executive,6,4,No,7,No
+EMP1080,Engineering,Software Engineer,1,3,No,8,No
+EMP1081,Customer Support,Support Lead,2,4,Yes,7,No
+EMP1082,HR,Recruiter,1,4,No,4,No
+EMP1083,Engineering,QA Tester,6,3,Yes,4,No
+EMP1084,Engineering,Tech Lead,2,3,No,6,No
+EMP1085,Engineering,Tech Lead,8,3,No,6,No
+EMP1086,Engineering,QA Tester,3,1,Yes,4,Yes
+EMP1087,Marketing,Marketing Analyst,6,3,No,4,No
+EMP1088,HR,Recruiter,11,1,No,9,No
+EMP1089,Customer Support,Support Lead,7,3,No,6,No
+EMP1090,Sales,Sales Lead,7,4,No,3,No
+EMP1091,Engineering,Tech Lead,3,4,No,7,No
+EMP1092,Marketing,Content Specialist,4,4,Yes,7,No
+EMP1093,Marketing,Marketing Analyst,2,1,Yes,3,No
+EMP1094,Sales,Sales Executive,1,4,Yes,3,No
+EMP1095,Marketing,Marketing Analyst,3,3,No,2,No
+EMP1096,Sales,Sales Executive,4,3,No,6,No
+EMP1097,Sales,Sales Lead,2,5,Yes,5,Yes
+EMP1098,Sales,Sales Lead,4,1,Yes,6,No
+EMP1099,Engineering,Tech Lead,8,4,No,7,No
+EMP1100,Engineering,Software Engineer,4,4,No,11,No
+EMP1101,Engineering,Software Engineer,5,3,No,7,No
+EMP1102,HR,Recruiter,6,2,No,2,No
+EMP1103,Engineering,Tech Lead,11,2,No,7,Yes
+EMP1104,Sales,Account Manager,4,5,Yes,4,No
+EMP1105,Customer Support,Support Specialist,6,3,No,11,No
+EMP1106,Engineering,Tech Lead,10,3,No,7,No
+EMP1107,Sales,Sales Executive,9,3,Yes,4,Yes
+EMP1108,Marketing,Content Specialist,1,4,No,7,No
+EMP1109,Engineering,QA Tester,3,2,No,4,Yes
+EMP1110,Engineering,QA Tester,2,3,No,9,No
+EMP1111,Engineering,Tech Lead,1,4,No,0,Yes
+EMP1112,Engineering,Tech Lead,4,5,No,4,No
+EMP1113,Customer Support,Support Specialist,5,3,No,4,No
+EMP1114,Marketing,Marketing Analyst,7,3,No,6,No
+EMP1115,HR,Recruiter,1,3,No,9,No
+EMP1116,Customer Support,Support Lead,7,4,No,10,Yes
+EMP1117,Marketing,Marketing Analyst,4,3,No,4,No
+EMP1118,Engineering,QA Tester,5,3,Yes,2,No
+EMP1119,Customer Support,Support Lead,8,4,No,7,No
+EMP1120,Sales,Sales Lead,4,4,No,7,Yes
+EMP1121,Marketing,Marketing Analyst,2,3,No,10,No
+EMP1122,Customer Support,Support Lead,6,5,No,9,No
+EMP1123,Engineering,Tech Lead,2,4,No,7,No
+EMP1124,Engineering,Tech Lead,1,3,No,3,Yes
+EMP1125,Engineering,Tech Lead,7,1,No,11,Yes
+EMP1126,Sales,Account Manager,2,5,Yes,7,Yes
+EMP1127,Marketing,Marketing Analyst,6,2,No,6,No
+EMP1128,Customer Support,Support Lead,2,2,No,7,Yes
+EMP1129,Engineering,Software Engineer,7,1,No,3,No
+EMP1130,Sales,Sales Lead,2,4,Yes,7,No
+EMP1131,Sales,Sales Executive,11,2,Yes,9,No
+EMP1132,Engineering,Tech Lead,6,2,No,5,No
+EMP1133,Engineering,QA Tester,1,1,Yes,9,Yes
+EMP1134,Engineering,Tech Lead,4,2,Yes,6,Yes
+EMP1135,Customer Support,Support Lead,11,4,Yes,12,No
+EMP1136,Engineering,Tech Lead,3,4,Yes,13,No
+EMP1137,Sales,Sales Executive,1,3,Yes,6,Yes
+EMP1138,Marketing,Content Specialist,3,3,No,3,No
+EMP1139,Sales,Sales Executive,3,4,Yes,2,Yes
+EMP1140,Customer Support,Support Lead,5,1,No,9,No
+EMP1141,Customer Support,Support Lead,5,3,No,3,No
+EMP1142,Engineering,Software Engineer,3,5,No,5,No
+EMP1143,Sales,Sales Lead,2,4,Yes,7,No
+EMP1144,Engineering,Software Engineer,4,3,Yes,3,Yes
+EMP1145,Engineering,Software Engineer,3,3,No,5,No
+EMP1146,Engineering,QA Tester,1,3,Yes,6,Yes
+EMP1147,HR,Recruiter,8,3,No,8,No
+EMP1148,Sales,Sales Executive,5,2,No,10,Yes
+EMP1149,Engineering,QA Tester,5,2,No,7,No
+EMP1150,Engineering,Software Engineer,6,2,Yes,8,No
+EMP1151,Customer Support,Support Lead,3,5,Yes,9,No
+EMP1152,Engineering,Tech Lead,6,4,No,9,No
+EMP1153,Engineering,Tech Lead,3,2,Yes,13,No
+EMP1154,Sales,Account Manager,1,2,No,8,No
+EMP1155,Customer Support,Support Specialist,3,4,No,2,No
+EMP1156,Engineering,Tech Lead,3,2,No,4,No
+EMP1157,HR,HR Specialist,5,2,Yes,3,No
+EMP1158,Marketing,Content Specialist,1,5,No,6,Yes
+EMP1159,Engineering,Tech Lead,1,3,No,9,No
+EMP1160,Marketing,Marketing Analyst,2,4,No,11,Yes
+EMP1161,Sales,Account Manager,2,5,Yes,7,No
+EMP1162,HR,HR Specialist,5,3,No,4,Yes
+EMP1163,HR,Recruiter,2,1,Yes,3,Yes
+EMP1164,Sales,Sales Executive,4,2,Yes,11,Yes
+EMP1165,Engineering,Tech Lead,3,4,Yes,6,No
+EMP1166,Marketing,Marketing Analyst,4,5,No,9,No
+EMP1167,Engineering,Tech Lead,7,4,No,7,No
+EMP1168,Engineering,Tech Lead,3,2,No,8,No
+EMP1169,Engineering,Software Engineer,6,4,No,3,No
+EMP1170,Sales,Sales Lead,3,5,Yes,5,Yes
+EMP1171,HR,HR Specialist,2,4,No,4,No
+EMP1172,Engineering,QA Tester,10,5,No,8,No
+EMP1173,Sales,Account Manager,1,4,Yes,6,No
+EMP1174,Engineering,Tech Lead,1,4,No,4,Yes
+EMP1175,HR,HR Specialist,6,4,No,7,No
+EMP1176,Engineering,Software Engineer,1,3,No,6,No
+EMP1177,HR,Recruiter,7,2,No,4,Yes
+EMP1178,Sales,Sales Lead,3,4,No,8,No
+EMP1179,Customer Support,Support Specialist,8,3,Yes,14,No
+EMP1180,Engineering,QA Tester,5,5,No,7,No
+EMP1181,Engineering,Software Engineer,4,5,No,10,No
+EMP1182,Engineering,QA Tester,9,4,Yes,4,No
+EMP1183,Customer Support,Support Specialist,3,1,No,6,No
+EMP1184,Customer Support,Support Specialist,10,3,No,4,Yes
+EMP1185,Engineering,Software Engineer,1,2,No,6,Yes
+EMP1186,HR,Recruiter,3,4,No,12,No
+EMP1187,Marketing,Marketing Analyst,2,4,No,7,No
+EMP1188,Sales,Sales Lead,4,5,No,10,No
+EMP1189,Sales,Sales Lead,1,3,Yes,5,Yes
+EMP1190,Engineering,Software Engineer,7,5,No,9,No
+EMP1191,Engineering,QA Tester,7,5,Yes,4,No
+EMP1192,Customer Support,Support Lead,10,3,Yes,5,Yes
+EMP1193,Customer Support,Support Specialist,1,5,No,8,No
+EMP1194,HR,HR Specialist,4,3,No,6,Yes
+EMP1195,Engineering,Software Engineer,3,3,No,8,Yes
+EMP1196,Engineering,QA Tester,2,4,No,6,No
+EMP1197,Marketing,Content Specialist,2,3,No,1,No
+EMP1198,Customer Support,Support Specialist,3,4,No,5,No
+EMP1199,Customer Support,Support Specialist,5,4,Yes,10,Yes
+EMP1200,Marketing,Marketing Analyst,4,4,No,7,No
+EMP1201,HR,HR Specialist,3,3,No,6,No
+EMP1202,Engineering,QA Tester,1,3,No,4,No
+EMP1203,Engineering,Tech Lead,1,4,Yes,2,No
+EMP1204,Customer Support,Support Specialist,1,3,Yes,7,Yes
+EMP1205,HR,Recruiter,10,3,Yes,3,No
+EMP1206,Engineering,Software Engineer,1,1,Yes,8,Yes
+EMP1207,Engineering,Software Engineer,1,4,No,7,No
+EMP1208,HR,Recruiter,2,2,No,4,Yes
+EMP1209,Engineering,Software Engineer,6,4,No,8,No
+EMP1210,Engineering,Software Engineer,10,4,Yes,5,No
+EMP1211,Sales,Account Manager,6,3,Yes,6,No
+EMP1212,HR,HR Specialist,5,3,Yes,4,No
+EMP1213,HR,Recruiter,3,5,Yes,6,No
+EMP1214,Engineering,Tech Lead,1,4,No,8,No
+EMP1215,Marketing,Content Specialist,10,5,No,6,No
+EMP1216,Engineering,Tech Lead,6,4,No,9,No
+EMP1217,Engineering,QA Tester,4,2,No,4,Yes
+EMP1218,Marketing,Marketing Analyst,6,2,No,4,Yes
+EMP1219,HR,Recruiter,5,3,No,5,No
+EMP1220,Marketing,Marketing Analyst,4,2,No,4,No
+EMP1221,HR,HR Specialist,11,3,No,6,No
+EMP1222,Sales,Sales Lead,8,3,Yes,6,No
+EMP1223,Engineering,QA Tester,4,3,No,9,No
+EMP1224,Sales,Sales Executive,5,4,Yes,5,No
+EMP1225,Engineering,QA Tester,1,4,No,8,No
+EMP1226,Engineering,QA Tester,5,3,No,4,No
+EMP1227,Customer Support,Support Specialist,1,4,Yes,10,No
+EMP1228,Sales,Account Manager,4,3,Yes,3,Yes
+EMP1229,Customer Support,Support Specialist,12,5,No,6,No
+EMP1230,HR,HR Specialist,4,1,Yes,3,No
+EMP1231,Marketing,Content Specialist,3,5,Yes,9,No
+EMP1232,Sales,Account Manager,2,4,No,4,No
+EMP1233,Sales,Sales Lead,1,3,No,4,Yes
+EMP1234,Sales,Account Manager,5,2,Yes,3,No
+EMP1235,Engineering,Tech Lead,1,3,No,2,Yes
+EMP1236,Marketing,Marketing Analyst,1,2,No,9,No
+EMP1237,Engineering,Software Engineer,3,2,No,7,No
+EMP1238,Engineering,QA Tester,6,4,No,5,No
+EMP1239,HR,Recruiter,5,3,No,6,No
+EMP1240,Engineering,QA Tester,1,4,No,6,Yes
+EMP1241,Customer Support,Support Specialist,3,5,No,3,No
+EMP1242,Customer Support,Support Specialist,3,3,Yes,2,No
+EMP1243,Customer Support,Support Specialist,4,4,No,4,No
+EMP1244,Sales,Sales Executive,5,1,Yes,11,Yes
+EMP1245,Engineering,Tech Lead,2,4,No,3,No
+EMP1246,Customer Support,Support Specialist,4,3,Yes,6,No
+EMP1247,Sales,Sales Lead,3,5,No,6,No
+EMP1248,Customer Support,Support Specialist,8,4,No,6,No
+EMP1249,Customer Support,Support Specialist,4,3,Yes,0,No
+EMP1250,Customer Support,Support Specialist,3,2,Yes,2,Yes
+EMP1251,Engineering,Tech Lead,3,5,No,7,No
+EMP1252,Sales,Sales Lead,4,4,Yes,4,Yes
+EMP1253,Customer Support,Support Lead,6,2,Yes,3,No
+EMP1254,Engineering,QA Tester,4,3,No,13,No
+EMP1255,Engineering,Software Engineer,5,4,No,4,No
+EMP1256,Sales,Sales Executive,5,2,No,13,Yes
+EMP1257,Customer Support,Support Specialist,3,5,Yes,4,No
+EMP1258,HR,Recruiter,3,3,No,5,No
+EMP1259,Sales,Sales Executive,7,1,No,8,Yes
+EMP1260,Engineering,QA Tester,3,4,No,3,No
+EMP1261,HR,HR Specialist,3,3,No,7,No
+EMP1262,Customer Support,Support Specialist,12,3,No,7,No
+EMP1263,Engineering,Software Engineer,1,2,Yes,4,No
+EMP1264,Sales,Sales Lead,1,1,No,5,Yes
+EMP1265,Customer Support,Support Specialist,3,4,Yes,8,No
+EMP1266,Marketing,Marketing Analyst,9,3,Yes,8,No
+EMP1267,HR,HR Specialist,1,4,No,6,No
+EMP1268,Marketing,Marketing Analyst,1,4,Yes,7,No
+EMP1269,Sales,Sales Lead,1,4,Yes,4,No
+EMP1270,Engineering,Tech Lead,1,2,No,6,No
+EMP1271,Marketing,Marketing Analyst,1,3,No,13,Yes
+EMP1272,Marketing,Marketing Analyst,3,5,No,10,No
+EMP1273,Customer Support,Support Specialist,4,4,Yes,4,No
+EMP1274,Customer Support,Support Lead,2,4,No,5,Yes
+EMP1275,Sales,Account Manager,3,3,Yes,1,No
+EMP1276,Sales,Sales Lead,1,3,Yes,7,No
+EMP1277,Marketing,Content Specialist,2,4,No,4,No
+EMP1278,HR,HR Specialist,3,5,No,4,No
+EMP1279,Marketing,Marketing Analyst,5,4,No,4,No
+EMP1280,Marketing,Marketing Analyst,1,4,No,3,No
+EMP1281,Customer Support,Support Lead,3,4,No,7,No
+EMP1282,Engineering,QA Tester,2,2,No,6,Yes
+EMP1283,Sales,Account Manager,7,3,No,7,No
+EMP1284,Engineering,Tech Lead,5,2,No,8,No
+EMP1285,Sales,Sales Executive,4,2,Yes,6,No
+EMP1286,Engineering,QA Tester,2,5,Yes,4,No
+EMP1287,Sales,Sales Executive,8,3,No,3,No
+EMP1288,Sales,Sales Executive,1,3,Yes,7,Yes
+EMP1289,Engineering,Software Engineer,1,2,No,5,Yes
+EMP1290,Sales,Sales Executive,3,3,No,4,No
+EMP1291,Engineering,QA Tester,1,2,No,5,No
+EMP1292,Engineering,Software Engineer,10,2,No,4,No
+EMP1293,Marketing,Marketing Analyst,6,4,No,8,No
+EMP1294,Sales,Sales Lead,2,3,No,2,No
+EMP1295,Engineering,Tech Lead,4,4,Yes,4,No
+EMP1296,Sales,Sales Lead,11,1,Yes,8,No
+EMP1297,Marketing,Content Specialist,8,2,No,9,No
+EMP1298,Engineering,QA Tester,4,3,No,4,No
+EMP1299,HR,Recruiter,8,4,No,3,No
+EMP1300,Engineering,QA Tester,11,4,No,5,No
+EMP1301,Engineering,Tech Lead,5,3,No,5,No
+EMP1302,Sales,Account Manager,1,3,Yes,4,No
+EMP1303,Sales,Sales Executive,3,4,Yes,8,Yes
+EMP1304,HR,HR Specialist,7,1,No,7,No
+EMP1305,Marketing,Content Specialist,2,3,Yes,6,Yes
+EMP1306,Customer Support,Support Specialist,7,4,Yes,8,No
+EMP1307,Sales,Account Manager,1,4,Yes,5,No
+EMP1308,Engineering,Software Engineer,1,3,No,4,No
+EMP1309,Marketing,Marketing Analyst,3,5,No,8,No
+EMP1310,Engineering,Tech Lead,1,4,No,4,No
+EMP1311,Sales,Sales Lead,10,3,Yes,5,No
+EMP1312,Engineering,QA Tester,6,4,No,5,No
+EMP1313,Engineering,Tech Lead,6,4,Yes,6,No
+EMP1314,Customer Support,Support Lead,4,3,No,3,No
+EMP1315,Marketing,Content Specialist,2,3,No,1,No
+EMP1316,HR,Recruiter,3,3,No,5,No
+EMP1317,Sales,Sales Lead,4,4,No,7,No
+EMP1318,Engineering,Software Engineer,3,3,Yes,4,Yes
+EMP1319,Engineering,QA Tester,2,4,No,6,No
+EMP1320,Engineering,QA Tester,3,4,No,5,No
+EMP1321,Sales,Account Manager,3,1,No,6,No
+EMP1322,Marketing,Marketing Analyst,12,4,Yes,7,No
+EMP1323,HR,HR Specialist,8,3,No,4,No
+EMP1324,Engineering,QA Tester,3,4,No,1,No
+EMP1325,Customer Support,Support Specialist,4,4,Yes,3,No
+EMP1326,Marketing,Content Specialist,5,2,No,7,No
+EMP1327,Sales,Sales Lead,1,3,No,4,No
+EMP1328,HR,HR Specialist,8,2,No,3,No
+EMP1329,Sales,Sales Executive,7,1,Yes,6,No
+EMP1330,Engineering,Software Engineer,3,3,No,3,No
+EMP1331,Sales,Sales Lead,3,3,No,10,No
+EMP1332,Marketing,Marketing Analyst,2,5,No,7,No
+EMP1333,Engineering,QA Tester,3,3,Yes,8,Yes
+EMP1334,Engineering,Tech Lead,1,3,No,4,No
+EMP1335,Engineering,Software Engineer,7,4,No,1,No
+EMP1336,Engineering,Software Engineer,1,1,No,6,No
+EMP1337,Customer Support,Support Lead,2,5,No,8,No
+EMP1338,Marketing,Content Specialist,9,4,Yes,6,Yes
+EMP1339,Sales,Sales Executive,5,4,No,11,Yes
+EMP1340,Engineering,QA Tester,2,2,No,5,No
+EMP1341,Sales,Sales Lead,2,3,No,4,No
+EMP1342,Sales,Sales Lead,1,3,No,9,Yes
+EMP1343,Engineering,Software Engineer,5,4,No,4,No
+EMP1344,Sales,Sales Lead,1,1,Yes,2,Yes
+EMP1345,Sales,Account Manager,4,3,No,5,No
+EMP1346,HR,HR Specialist,10,5,Yes,8,No
+EMP1347,HR,Recruiter,1,3,Yes,6,No
+EMP1348,Engineering,Software Engineer,8,3,No,7,Yes
+EMP1349,Sales,Account Manager,12,2,Yes,9,No
+EMP1350,HR,HR Specialist,1,5,No,6,No
+EMP1351,Sales,Sales Executive,8,1,No,6,Yes
+EMP1352,Customer Support,Support Lead,3,4,Yes,6,Yes
+EMP1353,HR,Recruiter,8,4,No,9,No
+EMP1354,Engineering,QA Tester,4,2,No,4,No
+EMP1355,Engineering,Software Engineer,5,4,Yes,6,No
+EMP1356,HR,HR Specialist,4,1,No,3,No
+EMP1357,Engineering,QA Tester,7,3,No,14,No
+EMP1358,Sales,Sales Lead,5,4,No,3,No
+EMP1359,Customer Support,Support Specialist,3,5,No,5,No
+EMP1360,Sales,Sales Lead,7,4,Yes,5,No
+EMP1361,Sales,Sales Executive,2,3,Yes,7,Yes
+EMP1362,HR,HR Specialist,1,2,No,8,No
+EMP1363,Sales,Sales Executive,1,1,No,4,Yes
+EMP1364,Sales,Sales Executive,2,2,No,8,Yes
+EMP1365,Customer Support,Support Specialist,2,2,Yes,10,Yes
+EMP1366,Sales,Sales Executive,9,3,Yes,13,No
+EMP1367,Customer Support,Support Specialist,1,3,Yes,10,No
+EMP1368,Customer Support,Support Specialist,5,3,No,5,Yes
+EMP1369,Engineering,QA Tester,1,2,No,5,No
+EMP1370,Engineering,Tech Lead,8,3,No,6,No
+EMP1371,Engineering,Tech Lead,10,4,No,6,No
+EMP1372,Engineering,QA Tester,3,3,Yes,5,No
+EMP1373,Engineering,Tech Lead,7,5,No,4,No
+EMP1374,HR,HR Specialist,1,5,No,5,Yes
+EMP1375,Engineering,Software Engineer,6,2,No,5,No
+EMP1376,Engineering,QA Tester,2,4,No,7,Yes
+EMP1377,Marketing,Marketing Analyst,8,4,No,8,No
+EMP1378,Engineering,QA Tester,1,4,No,3,No
+EMP1379,Marketing,Marketing Analyst,4,3,No,7,No
+EMP1380,Engineering,Software Engineer,6,3,Yes,4,Yes
+EMP1381,Engineering,Tech Lead,2,3,No,10,No
+EMP1382,HR,HR Specialist,1,3,Yes,2,Yes
+EMP1383,HR,Recruiter,1,4,No,7,No
+EMP1384,Customer Support,Support Lead,2,4,Yes,8,No
+EMP1385,Marketing,Content Specialist,4,3,No,6,No
+EMP1386,Marketing,Content Specialist,1,4,Yes,7,Yes
+EMP1387,Engineering,Software Engineer,2,2,No,4,No
+EMP1388,Engineering,QA Tester,1,2,No,8,No
+EMP1389,Marketing,Marketing Analyst,6,4,Yes,6,No
+EMP1390,Marketing,Marketing Analyst,1,3,Yes,6,No
+EMP1391,Customer Support,Support Specialist,2,1,Yes,4,No
+EMP1392,Sales,Account Manager,1,2,No,5,Yes
+EMP1393,Sales,Sales Executive,3,2,Yes,8,No
+EMP1394,Marketing,Content Specialist,7,5,No,8,No
+EMP1395,Engineering,QA Tester,3,4,Yes,2,Yes
+EMP1396,Customer Support,Support Lead,1,5,No,5,No
+EMP1397,Customer Support,Support Lead,6,4,Yes,8,Yes
+EMP1398,Sales,Account Manager,6,3,No,9,No
+EMP1399,Marketing,Content Specialist,1,3,No,6,No
+EMP1400,Marketing,Content Specialist,6,4,Yes,9,No
+EMP1401,Engineering,Software Engineer,9,2,No,5,No
+EMP1402,Customer Support,Support Specialist,1,5,Yes,3,Yes
+EMP1403,Sales,Account Manager,6,4,No,3,No
+EMP1404,Marketing,Marketing Analyst,5,3,No,8,No
+EMP1405,Engineering,QA Tester,3,5,No,3,No
+EMP1406,Customer Support,Support Lead,1,4,Yes,4,Yes
+EMP1407,Sales,Sales Executive,1,4,Yes,7,No
+EMP1408,Engineering,Software Engineer,7,2,No,4,No
+EMP1409,Customer Support,Support Lead,12,3,Yes,9,Yes
+EMP1410,Engineering,Software Engineer,5,3,Yes,4,No
+EMP1411,Engineering,QA Tester,3,2,No,3,No
+EMP1412,Customer Support,Support Lead,4,1,Yes,6,Yes
+EMP1413,Customer Support,Support Lead,4,4,Yes,5,Yes
+EMP1414,Sales,Account Manager,3,2,No,5,No
+EMP1415,HR,Recruiter,1,4,No,5,No
+EMP1416,Sales,Sales Lead,6,5,Yes,9,Yes
+EMP1417,Engineering,Tech Lead,2,5,No,6,No
+EMP1418,Engineering,Software Engineer,6,3,Yes,8,Yes
+EMP1419,HR,Recruiter,2,5,No,5,No
+EMP1420,Marketing,Content Specialist,1,1,Yes,8,Yes
+EMP1421,Marketing,Content Specialist,1,1,No,11,Yes
+EMP1422,Marketing,Content Specialist,3,4,No,2,No
+EMP1423,Engineering,Tech Lead,9,3,No,3,No
+EMP1424,Sales,Sales Executive,1,3,No,8,Yes
+EMP1425,Engineering,Software Engineer,7,4,No,3,No
+EMP1426,Sales,Sales Executive,3,2,No,3,Yes
+EMP1427,Sales,Sales Executive,6,2,No,4,No
+EMP1428,Customer Support,Support Specialist,2,3,No,7,Yes
+EMP1429,Sales,Account Manager,7,4,No,1,No
+EMP1430,Engineering,QA Tester,6,4,No,6,No
+EMP1431,Engineering,QA Tester,2,3,No,10,Yes
+EMP1432,Marketing,Content Specialist,1,3,No,6,No
+EMP1433,HR,Recruiter,7,2,Yes,9,No
+EMP1434,Engineering,Tech Lead,10,1,Yes,5,Yes
+EMP1435,Engineering,Tech Lead,1,4,Yes,10,No
+EMP1436,Marketing,Content Specialist,5,3,No,8,No
+EMP1437,Engineering,QA Tester,8,2,Yes,2,No
+EMP1438,Marketing,Marketing Analyst,7,4,No,3,No
+EMP1439,Marketing,Content Specialist,10,4,No,3,No
+EMP1440,Engineering,Tech Lead,6,4,No,4,No
+EMP1441,Engineering,Tech Lead,3,2,Yes,3,No
+EMP1442,Customer Support,Support Lead,2,2,Yes,6,No
+EMP1443,Sales,Sales Lead,2,2,No,4,Yes
+EMP1444,Sales,Account Manager,5,2,No,8,No
+EMP1445,Marketing,Content Specialist,5,4,Yes,6,Yes
+EMP1446,Customer Support,Support Specialist,2,4,No,6,No
+EMP1447,Customer Support,Support Specialist,7,4,No,3,No
+EMP1448,Marketing,Marketing Analyst,5,4,No,5,No
+EMP1449,Sales,Sales Lead,4,3,Yes,7,Yes
+EMP1450,Engineering,Tech Lead,3,4,No,3,No
+EMP1451,Marketing,Content Specialist,4,3,No,9,No
+EMP1452,Sales,Sales Executive,1,3,No,3,No
+EMP1453,Sales,Sales Lead,2,3,No,6,No
+EMP1454,Customer Support,Support Specialist,1,2,Yes,2,Yes
+EMP1455,Engineering,Software Engineer,1,3,No,8,Yes
+EMP1456,Sales,Sales Executive,3,5,Yes,2,Yes
+EMP1457,Engineering,Software Engineer,4,2,No,7,No
+EMP1458,Sales,Account Manager,1,2,No,8,Yes
+EMP1459,Engineering,Tech Lead,6,3,No,5,No
+EMP1460,Engineering,Software Engineer,2,4,No,1,No
+EMP1461,Engineering,QA Tester,8,4,Yes,7,No
+EMP1462,HR,Recruiter,10,4,No,5,Yes
+EMP1463,Marketing,Marketing Analyst,1,2,No,5,No
+EMP1464,Sales,Sales Lead,3,4,No,5,No
+EMP1465,Customer Support,Support Lead,1,3,Yes,6,No
+EMP1466,Sales,Sales Executive,4,4,No,7,No
+EMP1467,Engineering,Tech Lead,4,4,Yes,7,No
+EMP1468,Customer Support,Support Lead,2,2,No,7,Yes
+EMP1469,Engineering,Software Engineer,4,1,Yes,9,Yes
+EMP1470,Customer Support,Support Lead,2,1,No,6,No
+EMP1471,Engineering,QA Tester,1,3,Yes,3,Yes
+EMP1472,Customer Support,Support Specialist,5,3,No,9,Yes
+EMP1473,Engineering,Tech Lead,2,4,No,8,No
+EMP1474,Customer Support,Support Specialist,4,3,Yes,9,No
+EMP1475,Sales,Sales Executive,3,3,Yes,3,No
+EMP1476,Customer Support,Support Lead,11,2,Yes,9,Yes
+EMP1477,Engineering,Tech Lead,1,2,Yes,7,Yes
+EMP1478,Sales,Sales Executive,3,5,No,11,Yes
+EMP1479,Customer Support,Support Lead,5,2,Yes,5,Yes
+EMP1480,Sales,Sales Executive,3,4,No,12,No
+EMP1481,HR,HR Specialist,11,4,No,6,No
+EMP1482,HR,HR Specialist,5,4,No,5,No
+EMP1483,Sales,Sales Executive,5,5,Yes,5,No
+EMP1484,HR,Recruiter,6,3,Yes,4,Yes
+EMP1485,Sales,Account Manager,10,5,No,4,No
+EMP1486,Customer Support,Support Specialist,8,2,No,4,Yes
+EMP1487,Engineering,Tech Lead,5,2,No,9,No
+EMP1488,Engineering,Tech Lead,5,4,No,0,No
+EMP1489,Customer Support,Support Lead,1,5,No,7,No
+EMP1490,Customer Support,Support Lead,1,4,No,6,No
+EMP1491,Sales,Sales Lead,4,1,Yes,6,Yes
+EMP1492,HR,HR Specialist,1,3,No,7,No
+EMP1493,Engineering,Tech Lead,3,5,No,3,No
+EMP1494,Engineering,Software Engineer,2,3,Yes,3,No
+EMP1495,Sales,Account Manager,2,4,Yes,4,No
+EMP1496,Sales,Sales Lead,6,4,No,3,Yes
+EMP1497,Sales,Sales Lead,9,3,No,5,No
+EMP1498,Engineering,QA Tester,1,3,Yes,6,No
+EMP1499,Customer Support,Support Lead,4,3,No,7,No
+EMP1500,Customer Support,Support Lead,8,2,No,2,No
